@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.421
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "GoodsStorageTask", "GoodsStorageTask\GoodsStorageTask.vcxproj", "{F9B51D47-08E6-4AF9-9F8C-D019CE1B582C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F9B51D47-08E6-4AF9-9F8C-D019CE1B582C}.Debug|x64.ActiveCfg = Debug|x64
+		{F9B51D47-08E6-4AF9-9F8C-D019CE1B582C}.Debug|x64.Build.0 = Debug|x64
+		{F9B51D47-08E6-4AF9-9F8C-D019CE1B582C}.Debug|x86.ActiveCfg = Debug|Win32
+		{F9B51D47-08E6-4AF9-9F8C-D019CE1B582C}.Debug|x86.Build.0 = Debug|Win32
+		{F9B51D47-08E6-4AF9-9F8C-D019CE1B582C}.Release|x64.ActiveCfg = Release|x64
+		{F9B51D47-08E6-4AF9-9F8C-D019CE1B582C}.Release|x64.Build.0 = Release|x64
+		{F9B51D47-08E6-4AF9-9F8C-D019CE1B582C}.Release|x86.ActiveCfg = Release|Win32
+		{F9B51D47-08E6-4AF9-9F8C-D019CE1B582C}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D5793811-8569-46F5-B70F-A3AED03C1F3E}
+	EndGlobalSection
+EndGlobal
